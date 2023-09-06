@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository to your local machine:
    
    ```bash
-       (https://github.com/Nelofarzabi/To-Do-List_With_Vue.js.git)
+       https://github.com/Nelofarzabi/To-Do-List_With_Vue.js.git
    ```
 
 2. Navigate to the project directory:
