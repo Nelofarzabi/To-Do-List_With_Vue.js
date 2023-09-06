@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository to your local machine:
    
    ```bash
-       [cd To-Do-List_With_Vue.js](https://github.com/Nelofarzabi/To-Do-List_With_Vue.js.git)
+       (https://github.com/Nelofarzabi/To-Do-List_With_Vue.js.git)
    ```
 
 2. Navigate to the project directory:
@@ -30,7 +30,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    cd To-Do-List_With_Vue.js
    ```
 
-3. Go to folder then open Index.html in browser
+3. Go to folder then open Index.html in the browser .
 
 
 ### Live Demo
