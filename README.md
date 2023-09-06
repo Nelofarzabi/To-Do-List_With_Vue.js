@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple To-Do List application developed using Vue.js. It allows you to create, edit, and manage your daily tasks effortlessly. Vue.js is a progressive JavaScript framework that makes building interactive web applications easy and enjoyable.
+This is a simple To-Do List application developed using Vue.js. It allows you to create, delete, and manage your daily tasks effortlessly. Vue.js is a progressive JavaScript framework that makes building interactive web applications easy and enjoyable.
 
 
 ## Features
